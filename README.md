@@ -6,4 +6,4 @@
 
 * We are minimizing function `f(x,y) = (x-2)^2 + y^2`
 
-* see jupyter notebook `minimize_3d.ipynb`
+* see jupyter notebook `minimize.ipynb`
